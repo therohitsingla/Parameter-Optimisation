@@ -120,5 +120,3 @@ jupyter notebook SVM_Parameter_Optimization.ipynb
 ## Conclusion
 This experiment demonstrates the effectiveness of SVM for breast cancer classification, achieving over 97% accuracy with optimized parameters. The results highlight the importance of proper hyperparameter tuning for maximizing model performance in medical diagnostic applications.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
