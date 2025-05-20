@@ -91,23 +91,7 @@ The experiment uses the `load_breast_cancer` dataset from `sklearn.datasets`, wi
 3. **Model Stability**:
    - High consistency across different samples (accuracy range: 0.965-0.982)
    - Final model showed excellent balance of precision and recall
-
-## Visualizations
-
-### Convergence Plot
-![Convergence Plot](figures/convergence_example.png)
-
-The convergence plot shows how accuracy improved over iterations for the best sample, ultimately reaching 0.982.
-
-### Kernel Comparison
-![Kernel Comparison](figures/kernel_comparison_example.png)
-
-Box plots comparing the distribution of accuracy scores across different kernel types.
-
-### C Parameter Effect
-![C Parameter Effect](figures/c_parameter_effect_example.png)
-
-Scatter plots showing the relationship between C parameter values and accuracy for each kernel type.
+  
 
 ## Usage
 
